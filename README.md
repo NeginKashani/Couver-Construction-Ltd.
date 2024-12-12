@@ -6,7 +6,7 @@
 
 - Created - 2024-06-20
 
-- Technologies Used - Html ,CSS ,Javascript , React Js , Tailwind Css, Slider, SASS 
+- Technologies Used - Html5 ,CSS ,Javascript , React Js , Tailwind Css, Slider, SASS 
 
 - Role - Frontend
 
